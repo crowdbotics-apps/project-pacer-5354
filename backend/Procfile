@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT project_pacer_5354.wsgi:application
